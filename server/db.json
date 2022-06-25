@@ -1,33 +1,5 @@
 {
-  "contacts": [
-    {
-      "fullname": "ایمان مدائنی",
-      "photo": "https://toplearn.com/img/user/teachers/15633_2402cc6d-1d17-6a22-e6cc-39e3248f13a4_%D8%A7%DB%8C%D9%85%D8%A7%D9%86_%D9%85%D8%AF%D8%A7%D8%A6%D9%86%DB%8C.jpg",
-      "mobile": "09121112425",
-      "email": "iman@madaeny.com",
-      "job": "برنامه نویس",
-      "group": "1",
-      "id": 2
-    },
-    {
-      "fullname": "سجاد باقرزاده",
-      "photo": "https://toplearn.com/img/user/teachers/user-profile-%DB%8C%DA%A9-%D8%B4%D9%86%D8%A8%D9%87-%DB%B2%DB%B7-%D9%85%D8%B1%D8%AF%D8%A7%D8%AF-%DB%B1%DB%B3%DB%B9%DB%B8-90912499-707.jpg",
-      "mobile": "09380001122",
-      "email": "sajjad@bagherzadeh.com",
-      "job": "برنامه نویس و مدرس",
-      "group": "2",
-      "id": 3
-    },
-    {
-      "fullname": "محمد اردوخانی",
-      "photo": "https://toplearn.com/img/user/teachers/5330_8314f4b2-34a0-8873-aaf8-39e35e71fa6b_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D8%B1%D8%AF%D9%88%D8%AE%D8%A7%D9%86%DB%8C.png",
-      "mobile": "09115554789",
-      "email": "mohammad@ordo.com",
-      "job": "برنامه نویس و مدرس",
-      "group": "1",
-      "id": 4
-    }
-  ],
+  "contacts": [],
   "groups": [
     {
       "id": "1",
